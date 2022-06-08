@@ -1,0 +1,3 @@
+[submodule "ext/riscv-meta"]
+	path = ext/riscv-meta
+	url = git@github.com:michaeljclark/riscv-meta.git
